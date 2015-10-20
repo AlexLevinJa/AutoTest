@@ -1,0 +1,20 @@
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\TestProject.dll
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\TestProject.pdb
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\WebDriver.dll
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\WebDriver.Support.dll
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\WebDriver.pdb
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\WebDriver.xml
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\WebDriver.Support.pdb
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\bin\Debug\WebDriver.Support.xml
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\obj\Debug\TestProject.dll
+D:\UI auto tests\Example\0139 Framework Autotesting\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\Work\TestFramework\TestProject\TestProject\obj\Debug\TestProject.dll
+D:\Work\TestFramework\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\Work\TestFramework\TestProject\TestProject\bin\Debug\TestProject.dll
+D:\Work\TestFramework\TestProject\TestProject\bin\Debug\TestProject.pdb
